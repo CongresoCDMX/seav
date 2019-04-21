@@ -1,0 +1,27 @@
+h3{
+    font-size: 55px;
+}
+td, th, p {
+    font-size:45px !important;
+    margin-bottom: 10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #e5e5e5;
+    color: #828282;
+    text-align: center;
+    display: inline-block;
+}
+ul { text-align: center;
+    font-size:45px !important;
+
+}
+li { display: inline-block;
+    font-size:45px !important;
+    margin-right: 50px;
+
+}
