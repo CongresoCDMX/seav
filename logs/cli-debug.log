@@ -1,0 +1,357 @@
+2019-03-28 19:16:39 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 105
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 105
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 107
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 132
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:49:41 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 107
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 107
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 109
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:49:41 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 112
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 112
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 114
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:49:41 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 117
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 117
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 119
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:49:41 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 122
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 122
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 124
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:53:42 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 107
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 107
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 109
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:53:42 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 112
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 112
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 114
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:53:42 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 117
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 117
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 119
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:53:42 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 122
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 122
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 124
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:53:54 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 107
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 107
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 109
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:53:54 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 112
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 112
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 114
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:53:54 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 117
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 117
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 119
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:53:54 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 122
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 122
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 124
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:56:27 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 107
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 107
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 109
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:56:27 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 112
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 112
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 114
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:56:27 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 117
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 117
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 119
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-03-28 19:56:27 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - /opt/local/apache2/htdocs/seav/config/routes.php, line: 122
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/opt/local/apache2/htdocs/seav/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE/src/Routing/RouteBuilder.php, line 202
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 122
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+Cake\Routing\Router::prefix() - CORE/src/Routing/Router.php, line 1114
+Cake\Http\BaseApplication::{closure}() - ROOT/config/routes.php, line 124
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 1009
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 1072
+require - ROOT/config/routes.php, line 147
+Cake\Http\BaseApplication::routes() - CORE/src/Http/BaseApplication.php, line 179
+Cake\Console\CommandRunner::loadRoutes() - CORE/src/Console/CommandRunner.php, line 406
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 150
+[main] - ROOT/bin/cake.php, line 12
+
+
+
